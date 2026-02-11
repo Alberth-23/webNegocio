@@ -59,4 +59,59 @@ Este proyecto fue construido siguiendo buenas prácticas modernas:
 ---
 
 ## 📁 Estructura del Proyecto
+webNegocio/
+│
+├── index.html → Punto de entrada principal
+├── css/ → Hojas de estilo
+├── js/ → Funcionalidades interactivas
+├── assets/ → Imágenes y recursos estáticos
+└── README.md
+
+La estructura permite escalar fácilmente el proyecto hacia una aplicación más robusta.
+
+---
+
+## 🔥 Funcionalidades Principales
+
+✅ Diseño moderno y adaptable  
+✅ Sección de servicios  
+✅ Botón de contacto directo por WhatsApp  
+✅ Jerarquía visual clara  
+✅ Optimización para velocidad  
+✅ Llamados a la acción estratégicos  
+
+---
+
+## 💼 Casos de Uso
+
+Este sitio puede adaptarse rápidamente para:
+
+- Clínicas odontológicas  
+- Restaurantes  
+- Barberías  
+- Hoteles  
+- Gimnasios  
+- Agencias  
+- Profesionales independientes  
+
+Su diseño modular facilita la personalización según el negocio.
+
+---
+
+## 🖥️ Instalación y Uso Local
+
+Clona el repositorio:
+
+```bash
+git clone https://github.com/Alberth-23/webNegocio.git
+
+
+---
+
+## 🔥 Ahora un consejo MUY importante
+
+Haz esto y tu repo se verá MUCHO más profesional:
+
+### ✅ Agrega screenshots reales
+Crea una carpeta:
 
