@@ -8,7 +8,7 @@ El proyecto fue desarrollado con un enfoque en **rendimiento, experiencia de usu
 
 ## 🌐 Demo en Vivo
 
-👉 https://TU-LINK-AQUI.com
+👉 https://web-negocio.vercel.app/
 
 *(Recomendado: subirlo a Netlify o Vercel para mayor velocidad y estabilidad)*
 
